@@ -1,0 +1,12 @@
+/private/tmp/Lovers/bin/Release/net6.0/Lovers.deps.json
+/private/tmp/Lovers/bin/Release/net6.0/Lovers.dll
+/private/tmp/Lovers/bin/Release/net6.0/Lovers.pdb
+/private/tmp/Lovers/obj/Release/net6.0/Lovers.csproj.AssemblyReference.cache
+/private/tmp/Lovers/obj/Release/net6.0/Lovers.GeneratedMSBuildEditorConfig.editorconfig
+/private/tmp/Lovers/obj/Release/net6.0/Lovers.AssemblyInfoInputs.cache
+/private/tmp/Lovers/obj/Release/net6.0/Lovers.AssemblyInfo.cs
+/private/tmp/Lovers/obj/Release/net6.0/Lovers.csproj.CoreCompileInputs.cache
+/private/tmp/Lovers/obj/Release/net6.0/Lovers.dll
+/private/tmp/Lovers/obj/Release/net6.0/refint/Lovers.dll
+/private/tmp/Lovers/obj/Release/net6.0/Lovers.pdb
+/private/tmp/Lovers/obj/Release/net6.0/ref/Lovers.dll
